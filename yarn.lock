@@ -4419,6 +4419,13 @@ react-native-branch@2.2.5:
   resolved "https://registry.yarnpkg.com/react-native-branch/-/react-native-branch-2.2.5.tgz#4074dd63b4973e6397d9ce50e97b57c77a518e9d"
   integrity sha1-QHTdY7SXPmOX2c5Q6XtXx3pRjp0=
 
+react-native-camera@^1.10.2:
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-1.10.2.tgz#0e188c4efdf1f1af0f44664d57b84e33b1343978"
+  integrity sha512-Ssq/Ku+dzmO2Jkb8ojxrD3kfZrqYOo7HydX8L74fATr/UZhc1preFrIveoyc5eDr4PWT4tNuhHrd8u2C/RUcOg==
+  dependencies:
+    prop-types "^15.6.2"
+
 react-native-gesture-handler@~1.0.14:
   version "1.0.15"
   resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-1.0.15.tgz#7e0d0a457820a3c9325a3d492daaed14400508a6"
@@ -4428,7 +4435,7 @@ react-native-gesture-handler@~1.0.14:
     invariant "^2.2.2"
     prop-types "^15.5.10"
 
-"react-native-maps@github:expo/react-native-maps#v0.22.1-exp.0":
+react-native-maps@expo/react-native-maps#v0.22.1-exp.0:
   version "0.22.1"
   resolved "https://codeload.github.com/expo/react-native-maps/tar.gz/e6f98ff7272e5d0a7fe974a41f28593af2d77bb2"
 
